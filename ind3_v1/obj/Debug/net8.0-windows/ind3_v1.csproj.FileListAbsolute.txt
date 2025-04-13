@@ -1,0 +1,16 @@
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\ind3_v1\ind3_v1\obj\Debug\net8.0-windows\ind3_v1.Form1.resources
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\ind3_v1\ind3_v1\obj\Debug\net8.0-windows\ind3_v1.csproj.GenerateResource.cache
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\ind3_v1\ind3_v1\obj\Debug\net8.0-windows\ind3_v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\ind3_v1\ind3_v1\obj\Debug\net8.0-windows\ind3_v1.AssemblyInfoInputs.cache
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\ind3_v1\ind3_v1\obj\Debug\net8.0-windows\ind3_v1.AssemblyInfo.cs
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\ind3_v1\ind3_v1\obj\Debug\net8.0-windows\ind3_v1.csproj.CoreCompileInputs.cache
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\ind3_v1\ind3_v1\bin\Debug\net8.0-windows\ind3_v1.exe
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\ind3_v1\ind3_v1\bin\Debug\net8.0-windows\ind3_v1.deps.json
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\ind3_v1\ind3_v1\bin\Debug\net8.0-windows\ind3_v1.runtimeconfig.json
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\ind3_v1\ind3_v1\bin\Debug\net8.0-windows\ind3_v1.dll
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\ind3_v1\ind3_v1\bin\Debug\net8.0-windows\ind3_v1.pdb
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\ind3_v1\ind3_v1\obj\Debug\net8.0-windows\ind3_v1.dll
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\ind3_v1\ind3_v1\obj\Debug\net8.0-windows\refint\ind3_v1.dll
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\ind3_v1\ind3_v1\obj\Debug\net8.0-windows\ind3_v1.pdb
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\ind3_v1\ind3_v1\obj\Debug\net8.0-windows\ind3_v1.genruntimeconfig.cache
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\ind3_v1\ind3_v1\obj\Debug\net8.0-windows\ref\ind3_v1.dll
